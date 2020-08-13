@@ -5,8 +5,8 @@ import { cashSendComponent } from './cashSend.component';
 import { RetailComponent } from './retail.component';
 
 const routes: Routes = [
-  { path: '', component: cashSendComponent },
-  { path: 'cashSend', component: cashSendComponent },
+  { path: '', component: RetailComponent },
+  { path: 'cashSend', component: RetailComponent },
   { path: 'retail', component: RetailComponent }  ]
 
 @NgModule({
