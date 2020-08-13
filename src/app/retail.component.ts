@@ -26,7 +26,7 @@ export class RetailComponent {
 
   showCashDiv: boolean = false;
 
-  showRetail: boolean = true;
+  showRetail: boolean = false;
 
   showCash: boolean = true;
 
