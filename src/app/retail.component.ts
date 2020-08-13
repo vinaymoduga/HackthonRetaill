@@ -28,7 +28,7 @@ export class RetailComponent {
 
   showRetail: boolean = true;
 
-  showCash: boolean = false;
+  showCash: boolean = true;
 
   showValidataionError: boolean = false;
 
